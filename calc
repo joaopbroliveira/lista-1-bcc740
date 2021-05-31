@@ -1,0 +1,9 @@
+  class calc1: 
+    def soma(z, x, y):
+        return x + y
+    def subtrai(z, x, y): 
+        return x - y
+    def multiplica(z, x, y): 
+        return x * y 
+    def divide(z, x, y):
+        return x / y 
